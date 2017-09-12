@@ -1,5 +1,4 @@
-title: Simple Kotlin template
-
+title: Fizz Buzz Kotlin
 plan:
-  - title: Kotlin Snippet
-    statement: statement.md
+- title: Kotlin Snippet
+  statement: statement.md
